@@ -61,3 +61,9 @@
  
 ## Tutorials
 * [Using APIs is not quite hard as it looks](https://gigaom.com/2010/10/29/using-apis-not-quite-as-hard-as-it-looks/)
+
+## To review
+* https://any-api.com/?tag=location 
+* https://github.com/toddmotto/public-apis 
+* https://github.com/abhishekbanthia/Public-APIs
+* https://www.diycode.cc/projects/toddmotto/public-apis
