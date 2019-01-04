@@ -14,6 +14,19 @@
 * [Twitter](https://developer.twitter.com/)
 * [Facebook](https://developers.facebook.com/)
 * [LinkedIn](https://www.linkedin.com/developers/)
+* [Instagram](https://www.instagram.com/developer/)
+
+## Sounds
+* [SoundCloud](https://developers.soundcloud.com/)
+
+## Photos
+* [Flikr](https://www.flickr.com/services/api/)
+
+## Video
+* [Vimeo](https://developer.vimeo.com/)
+
+## Merchandising
+* [eBay](https://developer.ebay.com/common/api/)
 
 ## Science
  * [Nasa](https://api.nasa.gov/index.html#getting-started)
