@@ -21,6 +21,17 @@
 * [Facebook](https://developers.facebook.com/)
 * [LinkedIn](https://www.linkedin.com/developers/)
 * [Instagram](https://www.instagram.com/developer/)
+* [Adorable avatars](http://avatars.adorable.io/#what)
+* [Random user](https://randomuser.me/)
+* [Random name](https://github.com/thm/uinames)
+* [Celebrities](https://market.mashape.com/daxeel/celebinfo/)
+
+## Documents
+* [Html to Pdf](https://pdflayer.com/)
+* [Receipe Puppy](http://www.recipepuppy.com/about/api/)
+* [Yummly receipes](https://developer.yummly.com/)
+* [Abreviations](https://market.mashape.com/daxeel/abbreviations)
+* [USDA Food Composition Databases](https://ndb.nal.usda.gov/ndb/doc/index)
 
 ## Sounds
 * [SoundCloud](https://developers.soundcloud.com/)
@@ -28,6 +39,9 @@
 ## Numbers
 * [Random numbres](http://numbersapi.com/#random/year)
 * [Calendar](http://calapi.inadiutorium.cz/browse/general-en/2019/1)
+* [Time and Day](https://www.timeanddate.com/services/api/)
+* [Fixer:](https://fixer.io/) Foreign exchange rates and currency conversion JSON API
+* [Currency layer](https://currencylayer.com/documentation)
 
 
 ## Photos
