@@ -10,6 +10,10 @@
 * [Google Maps](https://developers.google.com/maps/documentation/geocoding/start?csw=1)
 * [Youtube](https://developers.google.com/youtube/?csw=1#data_api)
 
+## Mashups
+* [Europeana APIs:](https://pro.europeana.eu/what-we-do/creative-industries) Build applications that utilize a wealth of cultural heritage objects in the Europeana repository 
+* [Trendsmap:](https://www.trendsmap.com/)Utilizes trending twitter hashtags with geospatial data, providing a live map of trending tweets. For a membership fee, historical data, higher levels of zoom, and analysis are available.
+
 ## Social
 * [Twitter](https://developer.twitter.com/)
 * [Facebook](https://developers.facebook.com/)
@@ -30,3 +34,4 @@
 
 ## Science
  * [Nasa](https://api.nasa.gov/index.html#getting-started)
+ * [Free weather data service from Yr](https://hjelp.yr.no/hc/en-us/articles/360001940793-Free-weather-data-service-from-Yr)
