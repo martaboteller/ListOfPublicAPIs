@@ -28,6 +28,13 @@
 * [UK Police API](https://data.police.uk/docs/)
 * [The worldbank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589)
 * [Full contact API:](https://docs.fullcontact.com/?python#webhooks) Get Social Media profiles and contact Information
+* [Bored API](https://www.boredapi.com/) Find something to do
+* [Genderize:](https://genderize.io/) Determine the gender of a first name
+
+## Security and Validation
+* [Street layer](https://streetlayer.com/)
+* [Cloudmersive data validation](https://cloudmersive.com/validate-api)
+* [Language detection](https://languagelayer.com/)
 
 ## Sports
 * [Fitbit](https://dev.fitbit.com/)
@@ -38,13 +45,17 @@
 * [Goibibo API](https://developer.goibibo.com/docs)
 * [Edumnds:](http://edmundsapi-preprod.github.io/api-documentation/overview/) Vehicle information
 
-## Documents
+## Data
 * [Html to Pdf](https://pdflayer.com/)
 * [Receipe Puppy](http://www.recipepuppy.com/about/api/)
 * [Yummly receipes](https://developer.yummly.com/)
 * [Abreviations](https://market.mashape.com/daxeel/abbreviations)
 * [USDA Food Composition Databases](https://ndb.nal.usda.gov/ndb/doc/index)
 * [Hipo University domains and names list: ](https://github.com/Hipo/university-domains-list) University Domains and Names Data List & API
+* [IBM Text to Speech](https://console.bluemix.net/docs/services/text-to-speech/getting-started.html#gettingStarted)
+* [Pusher](https://pusher.com/beams)
+* [QR tag](https://www.qrtag.net/api/)
+* [QR code generator](http://goqr.me/api/)
 
 ## Music and Sounds
 * [SoundCloud](https://developers.soundcloud.com/)
@@ -91,6 +102,7 @@
  * [Minor Planet Center API](http://www.asterank.com/mpc)
  * [Earthquake Catalog](https://earthquake.usgs.gov/fdsnws/event/1/)
  * [Current ISS Location](http://open-notify.org/Open-Notify-API/)
+ * [Faceplusplus: ](https://www.faceplusplus.com/) Body and face recognition
  
 ## Tutorials
 * [Using APIs is not quite hard as it looks](https://gigaom.com/2010/10/29/using-apis-not-quite-as-hard-as-it-looks/)
