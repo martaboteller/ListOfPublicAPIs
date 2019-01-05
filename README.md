@@ -1,4 +1,4 @@
-# LIST OF PUBLIC APIS 
+# List of interesting APIs
 
 <br/>
 
