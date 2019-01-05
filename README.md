@@ -25,6 +25,8 @@
 * [Random user](https://randomuser.me/)
 * [Random name](https://github.com/thm/uinames)
 * [Celebrities](https://market.mashape.com/daxeel/celebinfo/)
+* [UK Police API](https://data.police.uk/docs/)
+* [The worldbank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589)
 
 ## Documents
 * [Html to Pdf](https://pdflayer.com/)
@@ -33,8 +35,15 @@
 * [Abreviations](https://market.mashape.com/daxeel/abbreviations)
 * [USDA Food Composition Databases](https://ndb.nal.usda.gov/ndb/doc/index)
 
-## Sounds
+## Music and Sounds
 * [SoundCloud](https://developers.soundcloud.com/)
+* [Jamendo](https://developer.jamendo.com/v3.0)
+* [Last FM](https://www.last.fm/api)
+* [Mixcloud](https://www.mixcloud.com/developers/)
+* [Musixmatch:](https://developer.musixmatch.com/) Bring lyrics on your application with the Musixmatch API
+* [Songsterr](https://www.songsterr.com/a/wa/api/)
+* [Spotify](https://developer.spotify.com/documentation/web-api/)
+* [Musicbrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2)
 
 ## Numbers
 * [Random numbres](http://numbersapi.com/#random/year)
@@ -48,9 +57,12 @@
 * [Flikr](https://www.flickr.com/services/api/)
 * [Dogs](https://dog.ceo/dog-api/)
 * [Meme generator](http://version1.api.memegenerator.net/#Images)
+* [Unsplash Image API](https://unsplash.com/developers)
 
 ## Video
 * [Vimeo](https://developer.vimeo.com/)
+* [Movies](https://www.themoviedb.org/documentation/api/discover)
+* [The Open Movie Database](http://omdbapi.com/)
 
 ## Merchandising
 * [eBay](https://developer.ebay.com/common/api/)
@@ -58,6 +70,10 @@
 ## Science
  * [Nasa](https://api.nasa.gov/index.html#getting-started)
  * [Free weather data service from Yr](https://hjelp.yr.no/hc/en-us/articles/360001940793-Free-weather-data-service-from-Yr)
+ * [Sunrise and sunset times API](https://sunrise-sunset.org/api)
+ * [Minor Planet Center API](http://www.asterank.com/mpc)
+ * [Earthquake Catalog](https://earthquake.usgs.gov/fdsnws/event/1/)
+ * [Current ISS Location](http://open-notify.org/Open-Notify-API/)
  
 ## Tutorials
 * [Using APIs is not quite hard as it looks](https://gigaom.com/2010/10/29/using-apis-not-quite-as-hard-as-it-looks/)
