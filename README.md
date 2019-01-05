@@ -69,6 +69,8 @@
 * [Dogs](https://dog.ceo/dog-api/)
 * [Meme generator](http://version1.api.memegenerator.net/#Images)
 * [Unsplash Image API](https://unsplash.com/developers)
+* [Random dog](https://random.dog)
+* [Icons8](https://icons8.docs.apiary.io/#reference/0/meta)
 
 ## Video
 * [Vimeo](https://developer.vimeo.com/)
@@ -97,4 +99,4 @@
 * https://any-api.com/?tag=location 
 * https://github.com/toddmotto/public-apis 
 * https://github.com/abhishekbanthia/Public-APIs
-* https://www.diycode.cc/projects/toddmotto/public-apis
+
