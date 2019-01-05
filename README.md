@@ -27,6 +27,16 @@
 * [Celebrities](https://market.mashape.com/daxeel/celebinfo/)
 * [UK Police API](https://data.police.uk/docs/)
 * [The worldbank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589)
+* [Full contact API:](https://docs.fullcontact.com/?python#webhooks) Get Social Media profiles and contact Information
+
+## Sports
+* [Fitbit](https://dev.fitbit.com/)
+
+## Travel
+* [Amadeus](https://sandbox.amadeus.com/)
+* [Transitland](https://transit.land/documentation/datastore/api-endpoints.html) Timetable and map of public transit service around the world
+* [Goibibo API](https://developer.goibibo.com/docs)
+* [Edumnds:](http://edmundsapi-preprod.github.io/api-documentation/overview/) Vehicle information
 
 ## Documents
 * [Html to Pdf](https://pdflayer.com/)
@@ -34,6 +44,7 @@
 * [Yummly receipes](https://developer.yummly.com/)
 * [Abreviations](https://market.mashape.com/daxeel/abbreviations)
 * [USDA Food Composition Databases](https://ndb.nal.usda.gov/ndb/doc/index)
+* [Hipo University domains and names list: ](https://github.com/Hipo/university-domains-list) University Domains and Names Data List & API
 
 ## Music and Sounds
 * [SoundCloud](https://developers.soundcloud.com/)
@@ -71,6 +82,10 @@
  * [Nasa](https://api.nasa.gov/index.html#getting-started)
  * [Free weather data service from Yr](https://hjelp.yr.no/hc/en-us/articles/360001940793-Free-weather-data-service-from-Yr)
  * [Sunrise and sunset times API](https://sunrise-sunset.org/api)
+ * [Yahoo weather](https://developer.yahoo.com/weather/)
+ * [Wunderground weather API](https://www.wunderground.com/weather/api/)
+ * [Open weather map](https://openweathermap.org/api)
+ * [Dark sky API](https://darksky.net/dev)
  * [Minor Planet Center API](http://www.asterank.com/mpc)
  * [Earthquake Catalog](https://earthquake.usgs.gov/fdsnws/event/1/)
  * [Current ISS Location](http://open-notify.org/Open-Notify-API/)
