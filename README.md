@@ -38,6 +38,7 @@
 * [Street layer](https://streetlayer.com/)
 * [Cloudmersive data validation](https://cloudmersive.com/validate-api)
 * [Language detection](https://languagelayer.com/)
+* [Cognito:](https://cognitohq.com/docs/identity-verification-api) Identity verification
 
 ## Sports
 * [Fitbit](https://dev.fitbit.com/)
@@ -94,6 +95,7 @@
 * [Random dog](https://random.dog)
 * [Icons8](https://icons8.docs.apiary.io/#reference/0/meta)
 * [Pinterest](https://developers.pinterest.com/)
+* [Pixabay](https://pixabay.com/api/docs/)
 
 ## Video
 * [Vimeo](https://developer.vimeo.com/)
@@ -115,12 +117,12 @@
  * [Earthquake Catalog](https://earthquake.usgs.gov/fdsnws/event/1/)
  * [Current ISS Location](http://open-notify.org/Open-Notify-API/)
  * [Faceplusplus: ](https://www.faceplusplus.com/) Body and face recognition
+ * [Matlab](https://www.programmableweb.com/api/matlab)
+ * [Newton](https://newton.now.sh/)
+ * [Infermedica](https://developer.infermedica.com/docs/introduction)
  
 ## Tutorials
 * [Using APIs is not quite hard as it looks](https://gigaom.com/2010/10/29/using-apis-not-quite-as-hard-as-it-looks/)
 
-## To review
-* https://any-api.com/?tag=location 
-* https://github.com/toddmotto/public-apis 
-* https://github.com/abhishekbanthia/Public-APIs
+
 
