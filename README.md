@@ -30,6 +30,9 @@
 * [Full contact API:](https://docs.fullcontact.com/?python#webhooks) Get Social Media profiles and contact Information
 * [Bored API](https://www.boredapi.com/) Find something to do
 * [Genderize:](https://genderize.io/) Determine the gender of a first name
+* [Forismatic:](http://forismatic.com/en/api/) Quotes and expressions
+* [Ican Hazdad joke](https://icanhazdadjoke.com/api)
+* [Quotes on design](https://quotesondesign.com/api-v4-0/)
 
 ## Security and Validation
 * [Street layer](https://streetlayer.com/)
@@ -54,8 +57,14 @@
 * [Hipo University domains and names list: ](https://github.com/Hipo/university-domains-list) University Domains and Names Data List & API
 * [IBM Text to Speech](https://console.bluemix.net/docs/services/text-to-speech/getting-started.html#gettingStarted)
 * [Pusher](https://pusher.com/beams)
+* [Detect language](https://detectlanguage.com/)
 * [QR tag](https://www.qrtag.net/api/)
 * [QR code generator](http://goqr.me/api/)
+* [Dictionary API](https://dictionaryapi.com/)
+* [Oxford Dictionaries](https://developer.oxforddictionaries.com/)
+* [Wordnik dictionary](https://developer.wordnik.com/)
+* [Words API](https://www.wordsapi.com/)
+* [Cloudmersive:](https://account.cloudmersive.com/login) Optical Character Recognition (OCR) APIs
 
 ## Music and Sounds
 * [SoundCloud](https://developers.soundcloud.com/)
@@ -66,6 +75,7 @@
 * [Songsterr](https://www.songsterr.com/a/wa/api/)
 * [Spotify](https://developer.spotify.com/documentation/web-api/)
 * [Musicbrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2)
+* [AI Mastering](https://aimastering.com/api_docs/)
 
 ## Numbers
 * [Random numbres](http://numbersapi.com/#random/year)
@@ -73,6 +83,7 @@
 * [Time and Day](https://www.timeanddate.com/services/api/)
 * [Fixer:](https://fixer.io/) Foreign exchange rates and currency conversion JSON API
 * [Currency layer](https://currencylayer.com/documentation)
+* [Reverse phone API](https://pro.whitepages.com/developer/documentation/reverse-phone-api/)
 
 
 ## Photos
@@ -82,6 +93,7 @@
 * [Unsplash Image API](https://unsplash.com/developers)
 * [Random dog](https://random.dog)
 * [Icons8](https://icons8.docs.apiary.io/#reference/0/meta)
+* [Pinterest](https://developers.pinterest.com/)
 
 ## Video
 * [Vimeo](https://developer.vimeo.com/)
